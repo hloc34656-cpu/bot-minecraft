@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
   host: 'LOC10072.aternos.me',
-  port: 16715, // Đảm bảo đúng số Port mới nhất trên Aternos
+  port: 16715, // <--- Thay đúng số port 5 chữ số của bạn vào đây
   username: 'KeeperAFK',
   version: '1.21.4',
   auth: 'offline',
